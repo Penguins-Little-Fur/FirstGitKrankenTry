@@ -2,7 +2,7 @@
 
 int main(){
 	printf("Hello World!");
-	printf("Hello by local change!");
+	printf("a!");
 	return 0;
 }
 
